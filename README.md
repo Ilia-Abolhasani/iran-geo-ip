@@ -44,7 +44,8 @@ To install the required dependencies, follow these steps:
 
 3. Install the additional Python packages by running the following command:
    ```bash
-  pip install netaddr ipaddress pandas tqdm
+   pip install netaddr ipaddress pandas tqdm
+   ```
 
 These commands will ensure that you have the necessary dependencies installed for generating and working with the MMDB database. The additional packages (netaddr, ipaddress, pandas, tqdm) are required for various functionalities in the project.
 
